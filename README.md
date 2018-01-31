@@ -1,6 +1,6 @@
 <h1> Dynamic Ontologies </h1>
 
-<h2>This repository contains the implementation IEEE International Conference on Bioinformatics and Biomedicine 2017 paper, <a href="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/DynamicOntologyGeneration-Paper.pdf">“Constructing Dynamic Ontologies from Biomedical Publications” (B587)</a></h2>
+<h3>This repository contains the implementation IEEE International Conference on Bioinformatics and Biomedicine 2017 paper, <a href="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/DynamicOntologyGeneration-Paper.pdf">“Constructing Dynamic Ontologies from Biomedical Publications” (B587)</a></h3>
 <br>
 <br>
 <h3><u>Highlights</u></h3>
