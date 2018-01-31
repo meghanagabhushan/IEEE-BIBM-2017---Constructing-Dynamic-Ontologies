@@ -27,7 +27,7 @@
 <p>
 <ol>
 <li><h4>Assertion Discovery</h4>
-<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionDiscovery.PNG" width=50% height=50%>
+<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionDiscovery.PNG" width=75% height=75%>
 </li>
 <li><h4>Clustering and Topic Discovery</h4>
 <img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/clustering.PNG">
