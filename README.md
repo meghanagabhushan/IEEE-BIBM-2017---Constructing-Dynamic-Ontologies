@@ -30,13 +30,13 @@
 <img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionDiscovery.PNG" width=75% height=75%>
 </li>
 <li><h4>Clustering and Topic Discovery</h4>
-<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/clustering.PNG">
+<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/clustering.PNG" width=75% height=75%>
 </li>
 <li><h4>Ontology Generation</h4>
-<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/ontology-gen.PNG">
+<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/ontology-gen.PNG" width=75% height=75%>
 </li>
 <li><h4>Web Application</h4>
-<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/WebApp.PNG">
+<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/WebApp.PNG" width=75% height=75%>
 </li>
 </ol>
 </p>
@@ -46,13 +46,13 @@
 <p>
 <ol>
 <li><b>Assertion Discovery Results :</b> Randomly selected 30 abstract papers in three categories(Diabetes, Obesity and Heart Disease) through the PubMed API
-<img src="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionResults.PNG">
+<img src="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionResults.PNG" width=75% height=75%>
 </li>
 <li><b>NLP and Feature Discovery Results :</b> Among the tf-idf terms, 92%, 76% and 69% of them are unique to Diabetes, Obesity and Heart Disease domains respectively.
-<img src="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/nlpResults.PNG">
+<img src="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/nlpResults.PNG" width=75% height=75%>
 </li>
 <li><b>Topic Discovery and Clustering Results :</b> The below table shows the results from the Topic Discovery Component for each cluster
-<img src="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/clusteringResults.PNG">
+<img src="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/clusteringResults.PNG" width=75% height=75%>
 </li>
 </ol>
 </p>
