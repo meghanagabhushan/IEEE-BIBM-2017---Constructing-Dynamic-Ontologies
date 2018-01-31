@@ -1,51 +1,3 @@
-<style>
-@import "http://fonts.googleapis.com/css?family=Open Sans:regular,semibold,italic,italicsemibold|Inconsolata&amp;v2";
-body {
-  font-family: "Open Sans";
-  margin: 6em 2em 2em 2em;
-}
-body:before {
-  content: '';
-  position: fixed;
-  top: 2%;
-  right: 3%;
-  height: 100px;
-  width: 100px;
-  background: url(https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/ontology.jpg) no-repeat 50% 50%;
-  background-size: contain;
-  z-index: 10;
-  opacity: 0.1;
-}
-h1, h2, h3, h4 {
-  font-weight: 600;
-}
-h1 {
-  position: fixed;
-  background: -webkit-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  background: -moz-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  background: -ms-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  background: -o-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  width: 100%;
-  height: 80px;
-  padding: 10px 10px 10px 1em;
-  left: 0;
-  top: 0;
-  margin: 0;
-}
-h1 img {
-  height: 30px;
-  vertical-align: middle;
-  margin-bottom: 8px;
-}
-a { color: navy; }
-pre {
-  background: #eee;
-  margin-left: 2em;
-  padding: 5px;
-  border-left: 3px solid #ccc;
-}
-</style>
-
 <h1> Dynamic Ontologies </h1>
 
 <h2>This repository contains the implementation IEEE International Conference on Bioinformatics and Biomedicine 2017 paper, <a href="https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/DynamicOntologyGeneration-Paper.pdf">“Constructing Dynamic Ontologies from Biomedical Publications” (B587)</a></h2>
@@ -75,7 +27,7 @@ pre {
 <p>
 <ol>
 <li><h4>Assertion Discovery</h4>
-<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionDiscovery.PNG">
+<img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/assertionDiscovery.PNG" width=50% height=50%>
 </li>
 <li><h4>Clustering and Topic Discovery</h4>
 <img src = "https://github.com/meghanagabhushan/IEEE-BIBM-2017---Constructing-Dynamic-Ontologies/blob/master/Images/clustering.PNG">
