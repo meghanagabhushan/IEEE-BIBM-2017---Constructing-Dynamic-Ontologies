@@ -1,0 +1,4 @@
+realtedTo,GAME,string
+realtedTo,DATE,string
+realtedTo,TEAM,string
+realtedTo,PERSON,string

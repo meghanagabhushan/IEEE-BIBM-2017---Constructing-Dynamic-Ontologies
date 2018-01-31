@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1501359670529" name="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/cricket" uri="cricket.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1501359670529" name="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/medical#" uri="medical.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1501359670529" name="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/untitled-ontology-9" uri="game.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1501359670529" name="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/world" uri="world.owl"/>
+    </group>
+</catalog>

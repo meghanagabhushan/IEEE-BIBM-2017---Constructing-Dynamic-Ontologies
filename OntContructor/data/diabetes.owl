@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/diabetes#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/diabetes#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="Cells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Cells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Deposition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Diabetes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="FluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="GW9662"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Heme"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HemeIronCenter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HydrophobicResidues"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="IncidentSyndrome"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="InhibitoryEffect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ItsEndothelialProtectiveEffects"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MetS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="OtherHydrophobicResidues"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="OxidativeStress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PIO"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Pioglitazone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PlateletHyperactivity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Procoagulants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SGK1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SGK1Expression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Spectroscopy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Stress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SympathoadrenalResponses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="T2DM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ThT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Treatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="UVVisSpectroscopy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Vasopressin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="VasopressinLevels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="VeinSampling"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="HoweverIsKnownOn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MayRequire"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="InnateDefenseCopingMechanismDuringEmotionalStress"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OtherHydrophobicResidues"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Dysfunction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Used"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ImportantRole"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Is"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CausesOfMortality"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ProtectsHUVECsAgainst"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Diabetes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsOneMainlyDue"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MayAlsoPlay"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Release"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MutantHIAPP"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Treatment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HGinducedDysfunction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Stress"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Inhibited"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OxidativeStress"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ProtectiveEffects"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1Activity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="PlaysRoleIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HemeIronCenter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MajorEffectOnProgressionOfEvents"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PatientsWithDiabetes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pathogenesis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="AreUsedFor"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PeroxisomeProliferatorActivatedReceptor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1Expression"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MoreoverWereAbrogatedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ThusUpregulating"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="UVVisSpectroscopy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="BindingAffinity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Denotes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="InhibitoryEffect"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="InteractionPattern"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Has"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Type2DiabetesMellitus"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Determine"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsEssentialFor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Little"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Spectroscopy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Procoagulants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RegulationOfTranscriptionFactors"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="LigandFor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Discrimination"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Na"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MayContributeTo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Study"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CorrectSubtyping"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Stimulates"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevelopmentOfSGK1RelatedPathologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="T2DM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ThT"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Affected"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pitfalls"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="WasObservedOn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Vasopressin"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Was"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EffectOfHemeOnAggregationOfHIAPP"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AdrenalVeinSampling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SympathoadrenalResponses"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Detect"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PASubclassification"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PlateletHyperactivity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pioglitazone"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Cells"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Arg11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="GW9662"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RiskFactor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ItsEndothelialProtectiveEffects"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EffectOnAggregationOfHIAPP"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Heme"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="TransmissionElectronMicroscopy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Favouring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="VasopressinLevels"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HydrophobicResidues"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MetS"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ConverselySignificantlyAttenuated"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="PlaysRoleBesides"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Treat"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsPowerfulStimulatorOf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PIO"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="AreActivatedAs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Fosters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hyperglycemia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HIAPPAggregation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ParticipatesIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SurgicalOutcomes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MayAlsoPlayRoleBesides"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CellViability"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="VeinSampling"/>
+        <NamedIndividual IRI="AdrenalVeinSampling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="FluidIntake"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AreUsedFor"/>
+        <NamedIndividual IRI="AdrenalVeinSampling"/>
+        <NamedIndividual IRI="PASubclassification"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Determine"/>
+        <NamedIndividual IRI="Cells"/>
+        <NamedIndividual IRI="CellViability"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsEssentialFor"/>
+        <NamedIndividual IRI="CorrectSubtyping"/>
+        <NamedIndividual IRI="SurgicalOutcomes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayContributeTo"/>
+        <NamedIndividual IRI="Discrimination"/>
+        <NamedIndividual IRI="MetS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneMainlyDue"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="CausesOfMortality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Inhibited"/>
+        <NamedIndividual IRI="Heme"/>
+        <NamedIndividual IRI="HIAPPAggregation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Affected"/>
+        <NamedIndividual IRI="HemeIronCenter"/>
+        <NamedIndividual IRI="BindingAffinity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayAlsoPlay"/>
+        <NamedIndividual IRI="HydrophobicResidues"/>
+        <NamedIndividual IRI="ImportantRole"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="WasObservedOn"/>
+        <NamedIndividual IRI="InhibitoryEffect"/>
+        <NamedIndividual IRI="MutantHIAPP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="HoweverIsKnownOn"/>
+        <NamedIndividual IRI="Little"/>
+        <NamedIndividual IRI="ItsEndothelialProtectiveEffects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="MacrovascularComplications"/>
+        <NamedIndividual IRI="Diabetes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayAlsoPlayRoleBesides"/>
+        <NamedIndividual IRI="OtherHydrophobicResidues"/>
+        <NamedIndividual IRI="Arg11"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="PlaysRoleIn"/>
+        <NamedIndividual IRI="OxidativeStress"/>
+        <NamedIndividual IRI="Pathogenesis"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ProtectsHUVECsAgainst"/>
+        <NamedIndividual IRI="PIO"/>
+        <NamedIndividual IRI="HGinducedDysfunction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="LigandFor"/>
+        <NamedIndividual IRI="Pioglitazone"/>
+        <NamedIndividual IRI="PeroxisomeProliferatorActivatedReceptor"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Treat"/>
+        <NamedIndividual IRI="Pioglitazone"/>
+        <NamedIndividual IRI="Type2DiabetesMellitus"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="Pitfalls"/>
+        <NamedIndividual IRI="PA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Has"/>
+        <NamedIndividual IRI="PlateletHyperactivity"/>
+        <NamedIndividual IRI="MajorEffectOnProgressionOfEvents"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="Procoagulants"/>
+        <NamedIndividual IRI="PatientsWithDiabetes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MoreoverWereAbrogatedBy"/>
+        <NamedIndividual IRI="ProtectiveEffects"/>
+        <NamedIndividual IRI="GW9662"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsPowerfulStimulatorOf"/>
+        <NamedIndividual IRI="SGK1"/>
+        <NamedIndividual IRI="Na"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ParticipatesIn"/>
+        <NamedIndividual IRI="SGK1"/>
+        <NamedIndividual IRI="RegulationOfTranscriptionFactors"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Fosters"/>
+        <NamedIndividual IRI="SGK1Activity"/>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Favouring"/>
+        <NamedIndividual IRI="SGK1Expression"/>
+        <NamedIndividual IRI="DevelopmentOfSGK1RelatedPathologies"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Detect"/>
+        <NamedIndividual IRI="Spectroscopy"/>
+        <NamedIndividual IRI="InteractionPattern"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="PlaysRoleBesides"/>
+        <NamedIndividual IRI="Stress"/>
+        <NamedIndividual IRI="Hyperglycemia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AreActivatedAs"/>
+        <NamedIndividual IRI="SympathoadrenalResponses"/>
+        <NamedIndividual IRI="InnateDefenseCopingMechanismDuringEmotionalStress"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Denotes"/>
+        <NamedIndividual IRI="T2DM"/>
+        <NamedIndividual IRI="RiskFactor"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Study"/>
+        <NamedIndividual IRI="ThT"/>
+        <NamedIndividual IRI="EffectOfHemeOnAggregationOfHIAPP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Study"/>
+        <NamedIndividual IRI="ThT"/>
+        <NamedIndividual IRI="EffectOnAggregationOfHIAPP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Study"/>
+        <NamedIndividual IRI="ThT"/>
+        <NamedIndividual IRI="TransmissionElectronMicroscopy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ConverselySignificantlyAttenuated"/>
+        <NamedIndividual IRI="Treatment"/>
+        <NamedIndividual IRI="Dysfunction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsWith"/>
+        <NamedIndividual IRI="Treatment"/>
+        <NamedIndividual IRI="PIO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Detect"/>
+        <NamedIndividual IRI="UVVisSpectroscopy"/>
+        <NamedIndividual IRI="InteractionPattern"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Was"/>
+        <NamedIndividual IRI="UVVisSpectroscopy"/>
+        <NamedIndividual IRI="Used"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Stimulates"/>
+        <NamedIndividual IRI="Vasopressin"/>
+        <NamedIndividual IRI="Release"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ThusUpregulating"/>
+        <NamedIndividual IRI="VasopressinLevels"/>
+        <NamedIndividual IRI="SGK1Expression"/>
+    </ObjectPropertyAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

@@ -1,0 +1,17 @@
+
+Corpus summary:
+	 Training set size: 5 documents
+	 Vocabulary size: 5 terms
+	 Training set size: 5 tokens
+	 Preprocessing time: 3.242704727 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.983821613 sec
+	 Training data average log likelihood: -1.3113323053236345
+
+1 topics:
+TOPIC_0;SGK1Expression,Favouring,Development;0.2960819109658652
+TOPIC_0;VasopressinLevels,Up-regulating,SGK1Expression;0.23463936301137825
+TOPIC_0;SGK1Expression,Favouring,DevelopmentOfSGK1RelatedPathologies;0.23463936301137825
+TOPIC_0;VasopressinLevels,ThusUp-regulating,SGK1Expression;0.23463936301137825
+

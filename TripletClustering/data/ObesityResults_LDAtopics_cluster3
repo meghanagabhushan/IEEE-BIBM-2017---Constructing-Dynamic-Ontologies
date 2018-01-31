@@ -1,0 +1,19 @@
+
+Corpus summary:
+	 Training set size: 6 documents
+	 Vocabulary size: 6 terms
+	 Training set size: 6 tokens
+	 Preprocessing time: 3.238871702 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.03373864 sec
+	 Training data average log likelihood: -2.244649911499823
+
+1 topics:
+TOPIC_0;I,Estimate,EffectOfBodyMassIndexOnWagesAcrossUnconditionalDistribution;0.16666666666666666
+TOPIC_0;I,Estimate,EffectOnWagesAcrossUnconditionalDistributionOfWages;0.16666666666666666
+TOPIC_0;I,Estimate,EffectOnWagesAcrossUnconditionalDistribution;0.16666666666666666
+TOPIC_0;Estimates,Tend,UniformAcrossWageDistribution;0.16666666666666666
+TOPIC_0;Estimates,Tend,MoreUniformAcrossWageDistribution;0.16666666666666666
+TOPIC_0;I,Estimate,EffectOfBodyMassIndexOnWagesAcrossUnconditionalDistributionOfWages;0.16666666666666666
+

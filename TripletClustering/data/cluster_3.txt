@@ -1,0 +1,8 @@
+PlateletHyperactivity,Has,MajorEffectOnProgression
+PlateletHyperactivity,Has,MajorEffectOnProgressionOfThromboticEvents
+PlateletHyperactivity,Has,Effect
+PlateletHyperactivity,Has,MajorEffect
+PlateletHyperactivity,Has,EffectOnProgressionOfEvents
+PlateletHyperactivity,Has,EffectOnProgressionOfThromboticEvents
+PlateletHyperactivity,Has,EffectOnProgression
+PlateletHyperactivity,Has,MajorEffectOnProgressionOfEvents

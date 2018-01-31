@@ -1,0 +1,18 @@
+
+Corpus summary:
+	 Training set size: 8 documents
+	 Vocabulary size: 8 terms
+	 Training set size: 8 tokens
+	 Preprocessing time: 3.360081307 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.349070692 sec
+	 Training data average log likelihood: -1.8471650521601035
+
+1 topics:
+TOPIC_0;PlateletHyperactivity,Has,Effect;0.2661042233781329
+TOPIC_0;PlateletHyperactivity,Has,MajorEffect;0.24033746597312028
+TOPIC_0;PlateletHyperactivity,Has,MajorEffectOnProgression;0.16451943688291562
+TOPIC_0;PlateletHyperactivity,Has,MajorEffectOnProgressionOfEvents;0.16451943688291562
+TOPIC_0;PlateletHyperactivity,Has,MajorEffectOnProgressionOfThromboticEvents;0.16451943688291562
+

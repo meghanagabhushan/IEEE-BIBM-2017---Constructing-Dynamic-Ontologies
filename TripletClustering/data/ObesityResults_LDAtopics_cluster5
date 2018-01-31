@@ -1,0 +1,19 @@
+
+Corpus summary:
+	 Training set size: 9 documents
+	 Vocabulary size: 9 terms
+	 Training set size: 9 tokens
+	 Preprocessing time: 3.240765821 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.989838939 sec
+	 Training data average log likelihood: -2.40420943887494
+
+1 topics:
+TOPIC_0;FewStudies,HaveInvestigated,WallRemodelingAfterThrombosisThroughRodentModels;0.1997938538863524
+TOPIC_0;Studies,HaveInvestigated,WallRemodelingAfterThrombosisThroughRodentModels;0.1997938538863524
+TOPIC_0;Restriction,IsWith,HighFructoseContentInObeseSchoolChildren;0.1997938538863524
+TOPIC_0;Studies,HaveInvestigated,WallRemodelingAfterThrombosis;0.1335394794469809
+TOPIC_0;FewStudies,HaveInvestigated,WallRemodeling;0.1335394794469809
+TOPIC_0;Studies,HaveInvestigated,WallRemodelingAfterThrombosisThroughModels;0.1335394794469809
+

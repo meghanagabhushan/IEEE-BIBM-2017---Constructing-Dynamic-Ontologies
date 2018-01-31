@@ -1,0 +1,25 @@
+
+Corpus summary:
+	 Training set size: 21 documents
+	 Vocabulary size: 21 terms
+	 Training set size: 21 tokens
+	 Preprocessing time: 3.13392446 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.852749994 sec
+	 Training data average log likelihood: -4.942833043012136
+
+1 topics:
+TOPIC_0;Aim,Evaluate,CardiovascularRiskProfileInPatientsWithAdrenalHyperplasia;0.12135664959807214
+TOPIC_0;Aim,Evaluate,RiskProfileInPediatricPatients;0.12135664959807214
+TOPIC_0;CardiovascularRiskProfile,IsIn,PediatricPatientsWithCongenitalAdrenalHyperplasia;0.09455733291654027
+TOPIC_0;Aim,Evaluate,CardiovascularRiskProfileInPatientsWithHyperplasia;0.09455733291654027
+TOPIC_0;Aim,Evaluate,RiskProfileInPediatricPatientsWithCongenitalHyperplasia;0.09455733291654027
+TOPIC_0;Aim,Evaluate,CardiovascularRiskProfileInPediatricPatients;0.09455733291654027
+TOPIC_0;Aim,Evaluate,RiskProfileInPatients;0.09455733291654027
+TOPIC_0;Aim,Evaluate,RiskProfileInPatientsWithAdrenalHyperplasia;0.056900007244230874
+TOPIC_0;Aim,Evaluate,CardiovascularRiskProfileInPatientsWithCongenitalAdrenalHyperplasia;0.056900007244230874
+TOPIC_0;Aim,Evaluate,RiskProfileInPatientsWithHyperplasia;0.056900007244230874
+TOPIC_0;Aim,Evaluate,CardiovascularRiskProfileInPediatricPatientsWithCongenitalHyperplasia;0.056900007244230874
+TOPIC_0;Aim,Evaluate,CardiovascularRiskProfileInPediatricPatientsWithHyperplasia;0.056900007244230874
+

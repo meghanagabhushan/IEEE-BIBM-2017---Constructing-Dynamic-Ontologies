@@ -1,0 +1,3 @@
+30%ΔMortReduction,IsIn,China
+IndustriesSources,Were,TwoLeadingSourcesOfΔMort
+IndustriesSources,Were,TwoSourcesOfΔMort

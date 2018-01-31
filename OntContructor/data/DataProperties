@@ -1,0 +1,11 @@
+Identified,Studies,string
+Should,Disease,string
+Are,Studies,string
+Underlies,Thrombin,string
+WereProtectedFrom,Mice,string
+CanContributeTo,Disease,string
+IsAssociatedWith,Obesity,string
+Avoid,Disease,string
+IsA,Studies,string
+IsA,Disease,string
+IsA,Treatment,string

@@ -1,0 +1,3 @@
+UVVisSpectroscopy,Was,Used
+UVVisSpectroscopy,Detect,InteractionPattern
+UVVisSpectroscopy,Detect,InteractionPatternBetweenHeme

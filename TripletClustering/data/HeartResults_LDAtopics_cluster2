@@ -1,0 +1,28 @@
+
+Corpus summary:
+	 Training set size: 22 documents
+	 Vocabulary size: 22 terms
+	 Training set size: 22 tokens
+	 Preprocessing time: 3.16355389 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 10.202956692 sec
+	 Training data average log likelihood: -5.724463096927841
+
+1 topics:
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseForMaintenanceOfAdequateHydration;0.11131955665585734
+TOPIC_0;FluidIntake,MayRequire,ReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration;0.11131955665585734
+TOPIC_0;SuboptimalFluidIntake,MayRequire,ReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration;0.08641848156253232
+TOPIC_0;SuboptimalFluidIntake,MayRequire,ReleaseOfHormoneForMaintenanceOfAdequateHydration;0.08641848156253232
+TOPIC_0;FluidIntake,MayRequire,ReleaseForMaintenanceOfAdequateHydration;0.08641848156253232
+TOPIC_0;FluidIntake,MayRequire,ReleaseOfHormoneForMaintenanceOfAdequateHydration;0.05181054420006884
+TOPIC_0;SuboptimalFluidIntake,MayRequire,ReleaseForMaintenanceOfHydration;0.05181054420006884
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseOfHormoneForMaintenanceOfAdequateHydration;0.05181054420006884
+TOPIC_0;FluidIntake,MayRequire,ReleaseOfHormoneForMaintenanceOfHydration;0.05181054420006884
+TOPIC_0;SuboptimalFluidIntake,MayRequire,ReleaseOfAntidiureticHormoneForMaintenanceOfHydration;0.05181054420006884
+TOPIC_0;FluidIntake,MayRequire,ReleaseOfAntidiureticHormoneForMaintenanceOfHydration;0.05181054420006884
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration;0.05181054420006884
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfHydration;0.05181054420006884
+TOPIC_0;FluidIntake,MayRequire,EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration;0.05181054420006884
+TOPIC_0;FluidIntake,MayRequire,ReleaseForMaintenanceOfHydration;0.05181054420006884
+

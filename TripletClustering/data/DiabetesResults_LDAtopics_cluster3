@@ -1,0 +1,34 @@
+
+Corpus summary:
+	 Training set size: 30 documents
+	 Vocabulary size: 30 terms
+	 Training set size: 30 tokens
+	 Preprocessing time: 3.183615219 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.802683677 sec
+	 Training data average log likelihood: -7.479760252924224
+
+1 topics:
+TOPIC_0;SGK1,FurtherParticipatesIn,Regulation;0.08249148101954158
+TOPIC_0;OtherHydrophobicResidues,MayAlsoPlayRoleBesides,Arg11;0.0627205185796742
+TOPIC_0;OtherResidues,MayPlayRoleBesides,Arg11;0.0627205185796742
+TOPIC_0;SGK1,ParticipatesIn,RegulationOfTranscriptionFactors;0.0627205185796742
+TOPIC_0;SGK1,IsPowerfulStimulatorOf,Na;0.0627205185796742
+TOPIC_0;EnhancedSGK1Activity,Fosters,Development;0.0627205185796742
+TOPIC_0;SGK1,Is,Activated;0.0627205185796742
+TOPIC_0;SGK1,IsActivatedBy,Insulin;0.0627205185796742
+TOPIC_0;SGK1,IsStimulatorOf,Na;0.0368049914555953
+TOPIC_0;SGK1,Is,PowerfulStimulator;0.0368049914555953
+TOPIC_0;SGK1,Is,Stimulator;0.0368049914555953
+TOPIC_0;SGK1,Is,ActivatedByInsulinViaPhosphatidylinositide3kinase;0.0368049914555953
+TOPIC_0;SGK1,IsActivatedVia,Phosphatidylinositide3kinase;0.0368049914555953
+TOPIC_0;SGK1,ParticipatesIn,Regulation;0.0368049914555953
+TOPIC_0;EnhancedSGK1Activity,Fosters,DevelopmentOfHypertension;0.0368049914555953
+TOPIC_0;HydrophobicResidues,MayAlsoPlayRoleBesides,Arg11;0.0368049914555953
+TOPIC_0;Favouring,DevelopmentOf,SGK1Pathologies;0.0368049914555953
+TOPIC_0;SGK1Activity,Fosters,DevelopmentOfHypertension;0.0368049914555953
+TOPIC_0;SGK1Activity,Fosters,Development;0.0368049914555953
+TOPIC_0;VasopressinLevels,ThusUp-regulating,SGK1Expression;0.0368049914555953
+TOPIC_0;OtherHydrophobicResidues,MayPlayRoleBesides,Arg11;0.0368049914555953
+

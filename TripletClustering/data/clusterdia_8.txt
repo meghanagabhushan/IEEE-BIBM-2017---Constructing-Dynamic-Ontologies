@@ -1,0 +1,11 @@
+AdrenalVeinSampling,Are,Used
+PIO,Protects,HUVECs
+PIO,ProtectsHUVECsAgainst,HGinducedDysfunctionThroughInhibitionOfIKKα
+VeinSampling,Are,Used
+PIO,ProtectsHUVECsAgainst,DysfunctionThroughInhibition
+PIO,ProtectsHUVECsAgainst,DysfunctionThroughInhibitionOfIKKα
+AdrenalVeinSampling,AreUsedFor,PASubclassification
+PIO,ProtectsHUVECsAgainst,HGinducedDysfunctionThroughInhibition
+PIO,ProtectsHUVECsAgainst,HGinducedDysfunction
+PIO,ProtectsHUVECsAgainst,Dysfunction
+VeinSampling,AreUsedFor,PASubclassification

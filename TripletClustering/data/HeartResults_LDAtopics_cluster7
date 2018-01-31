@@ -1,0 +1,31 @@
+
+Corpus summary:
+	 Training set size: 33 documents
+	 Vocabulary size: 33 terms
+	 Training set size: 33 tokens
+	 Preprocessing time: 3.1644389 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.888932795 sec
+	 Training data average log likelihood: -6.609672704808455
+
+1 topics:
+TOPIC_0;NewLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogen;0.09912438698573332
+TOPIC_0;SingleLocus,IsDefinedBy,RareP.Arg172GlyMissenseVariantInPlasminogenAssociated;0.0829973828432245
+TOPIC_0;SingleNewLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogen;0.0829973828432245
+TOPIC_0;SingleNewLocus,IsDefinedBy,RareP.Arg172GlyMissenseVariantInPlasminogenAssociated;0.0829973828432245
+TOPIC_0;Locus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount;0.0829973828432245
+TOPIC_0;SingleLocus,IsDefinedBy,RareP.Arg172GlyMissenseVariant;0.0829973828432245
+TOPIC_0;SingleLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogen;0.0829973828432245
+TOPIC_0;SingleLocus,IsDefinedBy,RareP.Arg172GlyMissenseVariantInPlasminogen;0.03662648326862907
+TOPIC_0;Locus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociated;0.03662648326862907
+TOPIC_0;SingleNewLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount;0.03662648326862907
+TOPIC_0;NewLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociated;0.03662648326862907
+TOPIC_0;SingleLocus,IsDefinedBy,P.Arg172GlyMissenseVariant;0.03662648326862907
+TOPIC_0;NewLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount;0.03662648326862907
+TOPIC_0;SingleLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociated;0.03662648326862907
+TOPIC_0;NewLocus,IsDefinedBy,P.Arg172GlyMissenseVariant;0.03662648326862907
+TOPIC_0;SingleNewLocus,IsDefinedBy,RareP.Arg172GlyMissenseVariantInPlasminogen;0.03662648326862907
+TOPIC_0;NewLocus,IsDefinedBy,P.Arg172GlyMissenseVariantInPlasminogenAssociatedWithIncreasedPlateletCount;0.03662648326862907
+TOPIC_0;NewLocus,IsDefinedBy,RareP.Arg172GlyMissenseVariantInPlasminogen;0.03662648326862907
+

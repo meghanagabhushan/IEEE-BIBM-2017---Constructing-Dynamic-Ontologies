@@ -1,0 +1,21 @@
+
+Corpus summary:
+	 Training set size: 11 documents
+	 Vocabulary size: 11 terms
+	 Training set size: 11 tokens
+	 Preprocessing time: 3.070752334 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 8.770571833 sec
+	 Training data average log likelihood: -3.1571527915130533
+
+1 topics:
+TOPIC_0;VeinSampling,Are,Used;0.19595935038831114
+TOPIC_0;VeinSampling,AreUsedFor,PASubclassification;0.16484877953402668
+TOPIC_0;PIO,ProtectsHUVECsAgainst,DysfunctionThroughInhibition;0.10653197834627705
+TOPIC_0;PIO,ProtectsHUVECsAgainst,DysfunctionThroughInhibitionOfIKKα;0.10653197834627705
+TOPIC_0;AdrenalVeinSampling,AreUsedFor,PASubclassification;0.10653197834627705
+TOPIC_0;PIO,ProtectsHUVECsAgainst,HGinducedDysfunctionThroughInhibition;0.10653197834627705
+TOPIC_0;PIO,ProtectsHUVECsAgainst,Dysfunction;0.10653197834627705
+TOPIC_0;PIO,ProtectsHUVECsAgainst,HGinducedDysfunction;0.10653197834627705
+

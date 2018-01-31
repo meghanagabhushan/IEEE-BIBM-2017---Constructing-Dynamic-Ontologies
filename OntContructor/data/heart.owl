@@ -1,0 +1,2021 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/heart#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/heart#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RareSpliceAcceptorVariant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SpliceAcceptorVariantInInterleukin33AssociatedWithReducedEosinophilCount"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="T2DM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Interleukin33AssociatedWithReducedEosinophilCount"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Aerosol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SingleLocus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CausesOfMortalityInPatients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PlateletHyperactivity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OrganicAerosol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Mort"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hyperlipidemia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ReleaseOfHormoneForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Includes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsOneDue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Causes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariantInPlasminogen"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PatientsWithHeartFailureWithPreservedEjectionFraction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ReleaseForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IncreasedResponseToProcoagulantsInPatientsWithDiabetes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Development"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="NewLocus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Locus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EstimatedMort"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevelopmentOfSGK1Pathologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesMainlyDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Favouring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1Activity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Outcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfHormoneForMaintenanceOfHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HeartFailure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesMainlyDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Fosters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IndustriesSources"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="AdditionallyResponsible"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IncreasedResponseToProcoagulantsInPatients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ReleaseOfAntidiureticHormoneForMaintenanceOfHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ResponseToProcoagulantsInPatientsWithDiabetes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsOneDueOf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfHormoneForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfHormoneForMaintenance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesMainlyDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PoorPrognosisInPatientsWithHeartFailureWithPreservedEjectionFraction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ResponseToProcoagulants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IncreasedResponse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AerosolsFromPowerGeneration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AdultIschemicHeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PoorPrognosisInPatientsWithHeartFailureWithEjectionFraction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="FluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsOneMainlyDue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Is"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Have"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ReleaseOfHormoneForMaintenanceOfHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesOfMortalityDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Responsible"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IndependentRiskFactorForCardiovascularDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PrognosisInPatientsWithHeartFailure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MajorEffectOnProgression"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesMainlyDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SingleNewLocus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IncreasedResponseToProcoagulants"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MayRequire"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Defined"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsOneMainlyDueOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Were"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MajorEffect"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Patients"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="AlsoHave"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CausesOfMortality"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PoorPrognosis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfHormone"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfAntidiureticHormoneForMaintenance"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="WellestablishedRiskFactorForCoronaryArteryDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsMainlyDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AmmoniumIon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SecondaryAerosol"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Decreased"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DdimerConcentration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesOfMortalityMainlyDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1Expression"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AdditionallyResponsible"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Therapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="TwoLeadingSources"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="TwoSourcesOfΔMort"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsWithDiabetesDueToMacrovascularComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithIncreasedPlateletCount"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Platelets"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PreservedEjectionFraction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDefinedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="DueTo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsWithDiabetesMainlyDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Denotes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CausesOfMortalityInPatientsWithDiabetes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Response"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SpliceAcceptorVariantInInterleukin33"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SecondaryOrganicAerosol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenance"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedSGK1Activity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PArg172GlyMissenseVariant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PresenceOfOxidativeStress"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PrognosisInPatientsWithHeartFailureWithEjectionFraction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="This"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Has"/>
+    </Declaration>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AdditionallyResponsible"/>
+        <NamedIndividual IRI="AmmoniumIon"/>
+        <NamedIndividual IRI="AerosolsFromPowerGeneration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AdditionallyResponsible"/>
+        <NamedIndividual IRI="AmmoniumIon"/>
+        <NamedIndividual IRI="SecondaryAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AdditionallyResponsible"/>
+        <NamedIndividual IRI="AmmoniumIon"/>
+        <NamedIndividual IRI="SecondaryOrganicAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Responsible"/>
+        <NamedIndividual IRI="AmmoniumIon"/>
+        <NamedIndividual IRI="AerosolsFromPowerGeneration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Responsible"/>
+        <NamedIndividual IRI="AmmoniumIon"/>
+        <NamedIndividual IRI="SecondaryAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="ArterialHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Fosters"/>
+        <NamedIndividual IRI="EnhancedSGK1Activity"/>
+        <NamedIndividual IRI="Development"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Fosters"/>
+        <NamedIndividual IRI="EnhancedSGK1Activity"/>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="DueTo"/>
+        <NamedIndividual IRI="EstimatedMort"/>
+        <NamedIndividual IRI="AdultIschemicHeartDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfAntidiureticHormoneForMaintenance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfHormoneForMaintenance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfHormoneForMaintenanceOfHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="ReleaseForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="ReleaseOfAntidiureticHormoneForMaintenanceOfHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="ReleaseOfHormoneForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesMainlyDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesMainlyDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsWithDiabetesDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesOfMortalityInPatientsWithDiabetesMainlyDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneCausesOfMortalityMainlyDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesMainlyDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesMainlyDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesOfMortalityDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsDueToMacrovascularComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsMainlyDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneDue"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="CausesOfMortality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneDue"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="CausesOfMortalityInPatientsWithDiabetes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneDueOf"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="Causes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneDueOf"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="CausesOfMortalityInPatients"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneMainlyDue"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="Causes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneMainlyDue"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="CausesOfMortality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneMainlyDueOf"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="Causes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsOneMainlyDueOf"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="CausesOfMortality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsWith"/>
+        <NamedIndividual IRI="HeartFailure"/>
+        <NamedIndividual IRI="PreservedEjectionFraction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hyperlipidemia"/>
+        <NamedIndividual IRI="WellestablishedRiskFactorForCoronaryArteryDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="Disease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="Hypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="Disease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="Disease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Were"/>
+        <NamedIndividual IRI="IndustriesSources"/>
+        <NamedIndividual IRI="TwoLeadingSources"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Were"/>
+        <NamedIndividual IRI="IndustriesSources"/>
+        <NamedIndividual IRI="TwoSourcesOfΔMort"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Decreased"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="DdimerConcentration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="Defined"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithIncreasedPlateletCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariant"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariantInPlasminogen"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="Locus"/>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="DueTo"/>
+        <NamedIndividual IRI="Mort"/>
+        <NamedIndividual IRI="AdultIschemicHeartDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="NewLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="NewLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithIncreasedPlateletCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="NewLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="NewLocus"/>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariantInPlasminogen"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="NewLocus"/>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+        <NamedIndividual IRI="PoorPrognosisInPatientsWithHeartFailureWithEjectionFraction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+        <NamedIndividual IRI="PoorPrognosisInPatientsWithHeartFailureWithPreservedEjectionFraction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+        <NamedIndividual IRI="PrognosisInPatientsWithHeartFailure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+        <NamedIndividual IRI="PrognosisInPatientsWithHeartFailureWithEjectionFraction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsWith"/>
+        <NamedIndividual IRI="Patients"/>
+        <NamedIndividual IRI="HeartFailure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Has"/>
+        <NamedIndividual IRI="PlateletHyperactivity"/>
+        <NamedIndividual IRI="MajorEffect"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Has"/>
+        <NamedIndividual IRI="PlateletHyperactivity"/>
+        <NamedIndividual IRI="MajorEffectOnProgression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="PlateletHyperactivity"/>
+        <NamedIndividual IRI="PresenceOfOxidativeStress"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AlsoHave"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="IncreasedResponse"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AlsoHave"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="IncreasedResponseToProcoagulants"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AlsoHave"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="IncreasedResponseToProcoagulantsInPatientsWithDiabetes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AlsoHave"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="Response"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AlsoHave"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="ResponseToProcoagulantsInPatientsWithDiabetes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Have"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="IncreasedResponseToProcoagulantsInPatients"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Have"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="Response"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Have"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="ResponseToProcoagulants"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="PoorPrognosis"/>
+        <NamedIndividual IRI="PatientsWithHeartFailureWithPreservedEjectionFraction"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="PulmonaryHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="RareSpliceAcceptorVariant"/>
+        <NamedIndividual IRI="Interleukin33AssociatedWithReducedEosinophilCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Fosters"/>
+        <NamedIndividual IRI="SGK1Activity"/>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Favouring"/>
+        <NamedIndividual IRI="SGK1Expression"/>
+        <NamedIndividual IRI="DevelopmentOfSGK1Pathologies"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AdditionallyResponsible"/>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="OrganicAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="AdditionallyResponsible"/>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="SecondaryOrganicAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Responsible"/>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="Aerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Responsible"/>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="OrganicAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Responsible"/>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="SecondaryAerosol"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Were"/>
+        <NamedIndividual IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="AdditionallyResponsible"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="Disease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="Disease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="Outcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SevereIdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="SevereIdiopathicHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="Disease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereIdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="OptimizedMedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseWith"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="DespiteTherapyDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseWith"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="MedicalTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SeverePulmonaryHypertension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SingleLocus"/>
+        <NamedIndividual IRI="Defined"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="SingleLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogen"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="SingleLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Decreased"/>
+        <NamedIndividual IRI="SingleNewLocus"/>
+        <NamedIndividual IRI="DdimerConcentration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SingleNewLocus"/>
+        <NamedIndividual IRI="Defined"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="SingleNewLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariant"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="SingleNewLocus"/>
+        <NamedIndividual IRI="RarePArg172GlyMissenseVariant"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfHormone"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseOfHormoneForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="ReleaseOfAntidiureticHormoneForMaintenanceOfHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="ReleaseOfHormoneForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="ReleaseOfHormoneForMaintenanceOfHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Denotes"/>
+        <NamedIndividual IRI="T2DM"/>
+        <NamedIndividual IRI="IndependentRiskFactorForCardiovascularDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Includes"/>
+        <NamedIndividual IRI="This"/>
+        <NamedIndividual IRI="SpliceAcceptorVariantInInterleukin33"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Includes"/>
+        <NamedIndividual IRI="This"/>
+        <NamedIndividual IRI="SpliceAcceptorVariantInInterleukin33AssociatedWithReducedEosinophilCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="tension"/>
+        <NamedIndividual IRI="Therapy"/>
+    </ObjectPropertyAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

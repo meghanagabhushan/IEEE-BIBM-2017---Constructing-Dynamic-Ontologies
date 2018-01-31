@@ -1,0 +1,40 @@
+
+Corpus summary:
+	 Training set size: 47 documents
+	 Vocabulary size: 47 terms
+	 Training set size: 47 tokens
+	 Preprocessing time: 3.132196893 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 10.457684873 sec
+	 Training data average log likelihood: -8.953632540432208
+
+1 topics:
+TOPIC_0;SGK1,FurtherParticipatesIn,RegulationOfTranscriptionFactors;0.06971604434353587
+TOPIC_0;SecondaryAmmoniumIon,AdditionallyResponsible,Aerosol;0.06971604434353587
+TOPIC_0;SecondaryAmmoniumIon,AdditionallyResponsible,Aerosols;0.057445625816116466
+TOPIC_0;SecondaryAmmoniumIon,Responsible,OrganicAerosol;0.057445625816116466
+TOPIC_0;Hyperlipidemia,Is,WellestablishedRiskFactorForCoronaryArteryDisease;0.04273080554645364
+TOPIC_0;Platelets,AlsoHave,IncreasedResponseToProcoagulantsInPatientsWithDiabetes;0.04273080554645364
+TOPIC_0;SecondaryAmmoniumIon,Responsible,SecondaryAerosol;0.04273080554645364
+TOPIC_0;AmmoniumIon,Responsible,SecondaryAerosol;0.04273080554645364
+TOPIC_0;Hyperlipidemia,Is,WellestablishedRiskFactorForArteryDisease;0.04273080554645364
+TOPIC_0;This,Includes,SpliceAcceptorVariantInInterleukin33;0.04273080554645364
+TOPIC_0;Osteoprotegerin,IsAssociatedWith,PoorPrognosisInPatientsWithHeartFailureWithEjectionFraction;0.04273080554645364
+TOPIC_0;SecondaryAmmoniumIon,Responsible,AerosolsFromPowerGeneration;0.04273080554645364
+TOPIC_0;AmmoniumIon,AdditionallyResponsible,SecondaryOrganicAerosol;0.04273080554645364
+TOPIC_0;PoorPrognosis,IsIn,PatientsWithHeartFailureWithPreservedEjectionFraction;0.04273080554645364
+TOPIC_0;This,Includes,SpliceAcceptorVariantInInterleukin33AssociatedWithReducedEosinophilCount;0.024489892632012195
+TOPIC_0;EnhancedSGK1Activity,Fosters,DevelopmentOfHypertension;0.024489892632012195
+TOPIC_0;AmmoniumIon,Responsible,SecondaryOrganicAerosol;0.024489892632012195
+TOPIC_0;Osteoprotegerin,IsAssociatedWith,PrognosisInPatientsWithHeartFailureWithPreservedEjectionFraction;0.024489892632012195
+TOPIC_0;Hyperlipidemia,Is,RiskFactorForCoronaryArteryDisease;0.024489892632012195
+TOPIC_0;EnhancedSGK1Activity,Fosters,Development;0.024489892632012195
+TOPIC_0;T2DM,Denotes,IndependentRiskFactorForCardiovascularDisease;0.024489892632012195
+TOPIC_0;Platelets,AlsoHave,ResponseToProcoagulantsInPatientsWithDiabetes;0.024489892632012195
+TOPIC_0;AmmoniumIon,Responsible,AerosolsFromPowerGeneration;0.024489892632012195
+TOPIC_0;SecondaryAmmoniumIon,Were,AdditionallyResponsible;0.024489892632012195
+TOPIC_0;SecondaryAmmoniumIon,AdditionallyResponsible,SecondaryOrganicAerosol;0.024489892632012195
+TOPIC_0;SecondaryAmmoniumIon,Were,Responsible;0.024489892632012195
+TOPIC_0;RareSpliceAcceptorVariant,IsIn,Interleukin33AssociatedWithReducedEosinophilCount;0.024489892632012195
+

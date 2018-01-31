@@ -1,0 +1,23 @@
+
+Corpus summary:
+	 Training set size: 17 documents
+	 Vocabulary size: 17 terms
+	 Training set size: 17 tokens
+	 Preprocessing time: 3.216051303 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.891755778 sec
+	 Training data average log likelihood: -4.040985906320234
+
+1 topics:
+TOPIC_0;Estimates,TendFor,BlackFemales;0.14890104487979425
+TOPIC_0;Effect,IsPositiveFor,Males;0.14890104487979425
+TOPIC_0;I,Estimate,EffectOnWages;0.14890104487979425
+TOPIC_0;Estimates,TendFor,Females;0.11825404628474168
+TOPIC_0;I,Estimate,EffectOfBodyMassIndexOnWagesAcrossDistribution;0.07250713651264595
+TOPIC_0;Effect,IncreasingIn,Wages;0.07250713651264595
+TOPIC_0;I,Estimate,EffectOfBodyMassIndexOnWages;0.07250713651264595
+TOPIC_0;I,Estimate,EffectOnWagesAcrossDistributionOfWages;0.07250713651264595
+TOPIC_0;Aim,Evaluate,RiskProfile;0.07250713651264595
+TOPIC_0;I,Estimate,EffectOnWagesAcrossDistribution;0.07250713651264595
+

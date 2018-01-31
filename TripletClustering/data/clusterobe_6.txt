@@ -1,0 +1,17 @@
+I,Estimate,EffectOfBodyMassIndexOnWagesAcrossDistributionOfWages
+I,Estimate,EffectOfBodyMassIndexOnWagesAcrossDistribution
+I,Estimate,EffectOnWages
+I,Estimate,EffectOfBodyMassIndex
+Estimates,TendFor,Females
+I,Estimate,Effect
+Effect,IncreasingIn,Wages
+Aim,Evaluate,RiskProfile
+I,Estimate,EffectOfBodyMassIndexOnWages
+Effect,Is,Positive
+I,Estimate,EffectOnWagesAcrossDistribution
+Aim,Evaluate,CardiovascularRiskProfile
+Effect,IsPositiveFor,BlackMales
+I,Estimate,EffectOnWagesAcrossDistributionOfWages
+Effect,IsPositiveFor,Males
+Role,Remains,Open
+Estimates,TendFor,BlackFemales

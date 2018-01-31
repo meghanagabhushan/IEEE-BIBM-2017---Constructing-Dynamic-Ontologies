@@ -1,0 +1,14 @@
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/density;0
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/EM;1
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/Fibers;4
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/ImmunoReactivity;4
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/Mouse;0
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/Pattern;0
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets1/Receptors;3
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets2/Accumbens;2
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets2/Neurons;0
+file:/C:/Users/Megha Nagabhushan/Desktop/CS5560 - Tutorial 5 Source/Spark_MachineLearning/data/medData/triplets2/Rat;0
+
+receptors,endomorphins - Reactors
+immunoreativefibers,fibers,immunoreactivity - Immunoreactivity
+EM -

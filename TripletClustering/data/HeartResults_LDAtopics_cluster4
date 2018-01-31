@@ -1,0 +1,23 @@
+
+Corpus summary:
+	 Training set size: 14 documents
+	 Vocabulary size: 14 terms
+	 Training set size: 14 tokens
+	 Preprocessing time: 3.233517318 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 9.992708576 sec
+	 Training data average log likelihood: -3.9936728577854423
+
+1 topics:
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseOfHormone;0.16179917809220745
+TOPIC_0;FluidIntake,MayRequire,EnhancedReleaseForMaintenance;0.13134333565759462
+TOPIC_0;FluidIntake,MayRequire,EnhancedReleaseOfHormone;0.13134333565759462
+TOPIC_0;FluidIntake,MayRequire,EnhancedReleaseOfAntidiureticHormoneForMaintenance;0.08221630722751476
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedRelease;0.08221630722751476
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseForMaintenanceOfHydration;0.08221630722751476
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseOfAntidiureticHormone;0.08221630722751476
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseOfHormoneForMaintenance;0.08221630722751476
+TOPIC_0;FluidIntake,MayRequire,EnhancedReleaseOfAntidiureticHormone;0.08221630722751476
+TOPIC_0;SuboptimalFluidIntake,MayRequire,EnhancedReleaseForMaintenance;0.08221630722751476
+

@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/heartDisease#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/heartDisease#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="HeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NewLocus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PlateletHyperactivity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Platelets"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SGK1Expression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SecondaryAmmoniumIon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SevereHypertension"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SuboptimalFluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="30percentMortReduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="RareSpliceAcceptorVariant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevelopmentOfSGK1RelatedPathologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Interleukin33AssociatedWithReducedEosinophilCount"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Is"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Platelets"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Fosters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="30percentMortReduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ResponseToProcoagulantsInPatients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsWithDiabetesMainlyDueToComplications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Stimulator"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="China"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SevereHypertension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Have"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsPowerfulStimulatorOf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SingleLocus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PoorPrognosisInPatientsWithHeartFailure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SingleNewLocus"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Favouring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Has"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="WellestablishedRiskFactorForCoronaryArteryDisease"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ThusUpregulating"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1Expression"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DevastatingDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="TwoLeadingSourcesOfMort"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="FluidIntake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="VasopressinLevels"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDefinedBy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AdultHeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IndustriesSources"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Were"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="DueTo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hyperlipidemia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EnhancedSGK1Activity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HeartDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Na"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="MayRequire"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SGK1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EstimatedMort"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="EnhancedSGK1Activity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Platelets"/>
+        <NamedIndividual IRI="EstimatedMort"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="FluidIntake"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PlateletHyperactivity"/>
+        <NamedIndividual IRI="Has"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="Hyperlipidemia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SevereHypertension"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SevereHypertension"/>
+        <NamedIndividual IRI="IdiopathicHypertension"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SevereHypertension"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryArterialHypertension"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SevereHypertension"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="30percentMortReduction"/>
+        <NamedIndividual IRI="IndustriesSources"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Platelets"/>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SevereHypertension"/>
+        <NamedIndividual IRI="PulmonaryArterialHypertension"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SecondaryAmmoniumIon"/>
+        <NamedIndividual IRI="RareSpliceAcceptorVariant"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Platelets"/>
+        <NamedIndividual IRI="SGK1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NewLocus"/>
+        <NamedIndividual IRI="SingleLocus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NewLocus"/>
+        <NamedIndividual IRI="SingleNewLocus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SGK1Expression"/>
+        <NamedIndividual IRI="VasopressinLevels"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsWith"/>
+        <NamedIndividual IRI="DevastatingDisease"/>
+        <NamedIndividual IRI="PoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Fosters"/>
+        <NamedIndividual IRI="EnhancedSGK1Activity"/>
+        <NamedIndividual IRI="DevelopmentOfHypertension"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="DueTo"/>
+        <NamedIndividual IRI="EstimatedMort"/>
+        <NamedIndividual IRI="AdultHeartDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="FluidIntake"/>
+        <NamedIndividual IRI="ReleaseOfAntidiureticHormoneForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="HeartDisease"/>
+        <NamedIndividual IRI="OneOfCausesOfMortalityInPatientsWithDiabetesMainlyDueToComplications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="Hyperlipidemia"/>
+        <NamedIndividual IRI="WellestablishedRiskFactorForCoronaryArteryDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="IdiopathicArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDevastatingDiseaseDespite"/>
+        <NamedIndividual IRI="IdiopathicPulmonaryHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Were"/>
+        <NamedIndividual IRI="IndustriesSources"/>
+        <NamedIndividual IRI="TwoLeadingSourcesOfMort"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsAssociatedWith"/>
+        <NamedIndividual IRI="Osteoprotegerin"/>
+        <NamedIndividual IRI="PoorPrognosisInPatientsWithHeartFailure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Have"/>
+        <NamedIndividual IRI="Platelets"/>
+        <NamedIndividual IRI="ResponseToProcoagulantsInPatients"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="RareSpliceAcceptorVariant"/>
+        <NamedIndividual IRI="Interleukin33AssociatedWithReducedEosinophilCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SGK1"/>
+        <NamedIndividual IRI="Stimulator"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsPowerfulStimulatorOf"/>
+        <NamedIndividual IRI="SGK1"/>
+        <NamedIndividual IRI="Na"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Favouring"/>
+        <NamedIndividual IRI="SGK1Expression"/>
+        <NamedIndividual IRI="DevelopmentOfSGK1RelatedPathologies"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedTherapyDevastatingDiseaseWithOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDiseaseDespite"/>
+        <NamedIndividual IRI="SevereHypertension"/>
+        <NamedIndividual IRI="OptimizedTherapy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Is"/>
+        <NamedIndividual IRI="SeverePulmonaryArterialHypertension"/>
+        <NamedIndividual IRI="DespiteOptimizedMedicalTherapyDevastatingDiseaseWithPoorOutcome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsDefinedBy"/>
+        <NamedIndividual IRI="SingleNewLocus"/>
+        <NamedIndividual IRI="PArg172GlyMissenseVariantInPlasminogenAssociatedWithPlateletCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="MayRequire"/>
+        <NamedIndividual IRI="SuboptimalFluidIntake"/>
+        <NamedIndividual IRI="EnhancedReleaseForMaintenanceOfAdequateHydration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ThusUpregulating"/>
+        <NamedIndividual IRI="VasopressinLevels"/>
+        <NamedIndividual IRI="SGK1Expression"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="30percentMortReduction"/>
+        <NamedIndividual IRI="China"/>
+    </ObjectPropertyAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

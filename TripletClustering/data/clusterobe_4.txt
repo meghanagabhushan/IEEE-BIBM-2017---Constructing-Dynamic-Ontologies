@@ -1,0 +1,13 @@
+SGK1,IsStimulatorOf,Na
+SGK1,Is,PowerfulStimulator
+SGK1,Is,Stimulator
+SGK1,IsActivatedVia,Phosphatidylinositide3kinase
+SGK1,ParticipatesIn,RegulationOfTranscriptionFactors
+EnhancedSGK1Activity,Fosters,DevelopmentOfHypertension
+EnhancedSGK1Activity,Fosters,Development
+SGK1,Is,ActivatedByInsulinViaPhosphatidylinositide3kinase
+SGK1,FurtherParticipatesIn,Regulation
+SGK1,IsPowerfulStimulatorOf,Na
+SGK1,FurtherParticipatesIn,RegulationOfTranscriptionFactors
+SGK1,Is,Activated
+SGK1,IsActivatedBy,Insulin

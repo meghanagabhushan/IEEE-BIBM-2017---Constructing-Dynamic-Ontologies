@@ -1,0 +1,76 @@
+
+Corpus summary:
+	 Training set size: 128 documents
+	 Vocabulary size: 128 terms
+	 Training set size: 128 tokens
+	 Preprocessing time: 3.463678589 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 18.845432695 sec
+	 Training data average log likelihood: -14.20028880657749
+
+1 topics:
+TOPIC_0;DifferentMarquesGroups,SpecificTo,Marques;0.042923954536615905
+TOPIC_0;OccasionalBottle,IsHelpfulIn,Cars;0.038558948975277285
+TOPIC_0;ShorterPeople,FitBackWithout,Complaints;0.038558948975277285
+TOPIC_0;EmailSystemPleaseDoFlood,IsWith,Mail;0.0338323223791038
+TOPIC_0;Manufacturers,WouldTend,BowToMarketPressures;0.0338323223791038
+TOPIC_0;People,ActuallyNeed,People;0.0338323223791038
+TOPIC_0;StormmyMazdaMPV,Was,Damaged;0.0338323223791038
+TOPIC_0;Cars,RoughlyTwiceSpeedOf,MyCar;0.028674268661904985
+TOPIC_0;Parracsucalgaryca,IsIn,ArticleApracsucalgaryca;0.028674268661904985
+TOPIC_0;NetcomputerAds,AreFor,StolenComputers;0.028674268661904985
+TOPIC_0;Cars,Doing,SpeedOfMyCar;0.022982103251775566
+TOPIC_0;CarMagazines,HavePrinted,LotOfInformation;0.022982103251775566
+TOPIC_0;DoorAcAmfmCassette,IsIn,DoorCar;0.022982103251775566
+TOPIC_0;MarquesGroups,SpecificTo,Marques;0.022982103251775566
+TOPIC_0;People,FitBackThereWithout,Complaints;0.022982103251775566
+TOPIC_0;SocalledPhotoradarInstallations,IsIn,Installations;0.022982103251775566
+TOPIC_0;Cars,Doing,RoughlyTwiceSpeedOfMyCar;0.016590344109030212
+TOPIC_0;PocketsEspciallyFancyDresses,Are,StillPretty;0.016590344109030212
+TOPIC_0;ThresholdBraking,Is,TechniquePracticedBySerious;0.016590344109030212
+TOPIC_0;Cars,Doing,TwiceSpeedOfMyCar;0.016590344109030212
+TOPIC_0;Cars,RoughlyTwiceSpeedOf,MyCar;0.016590344109030212
+TOPIC_0;ReAutomotiveCrashTestPerformance,Stats,Maintenance;0.016590344109030212
+TOPIC_0;HandyAutomatedMailingListPackage,Named,ListservWhich;0.016590344109030212
+TOPIC_0;Bowmanjcsnorg,IsIn,ArticleAprcoloradoeduJerryBowman;0.016590344109030212
+TOPIC_0;OilPressure,Could,UsuallyCouldYourOilPump;0.016590344109030212
+TOPIC_0;CarManufacturer,HasManufactured,Cars;0.016590344109030212
+TOPIC_0;ExpensiveAccidents,RateOf,VehicleDestruction;0.016590344109030212
+TOPIC_0;CarManufacturer,HasAlwaysManufactured,Cars;0.016590344109030212
+TOPIC_0;CelicaCorollaPaseo,IsIn,Canada;0.009189408662619532
+TOPIC_0;Cars,Doing,RoughlyTwiceSpeedOfMyCar;0.009189408662619532
+TOPIC_0;BasePrice,WasLowerThan,CurrentPrice;0.009189408662619532
+TOPIC_0;Cars,Doing,SpeedOfMyCar;0.009189408662619532
+TOPIC_0;PocketsDressesEspciallyFancyDresses,Are,StillPretty;0.009189408662619532
+TOPIC_0;RussellWong,AmDoingResearchProjectAt_time,Hello;0.009189408662619532
+TOPIC_0;People,ActuallyNeed,People;0.009189408662619532
+TOPIC_0;Manufacturers,WouldTendThere,BowToMarketPressures;0.009189408662619532
+TOPIC_0;Supplied,Are,MorePlausible;0.009189408662619532
+TOPIC_0;BasePrice,WasLowerThan,Price;0.009189408662619532
+TOPIC_0;DoorAcAmfmCassette,IsIn,DoorCar;0.009189408662619532
+TOPIC_0;ExpensiveAccidents,RateOf,VehicleDestruction;0.009189408662619532
+TOPIC_0;ExpensiveAccidents,RateOf,TotalVehicleDestruction;0.009189408662619532
+TOPIC_0;ValveDamage,IsIn,ThanPerformance;0.009189408662619532
+TOPIC_0;California,Paying,CaliforniaSalesTax;0.009189408662619532
+TOPIC_0;SocalledPhotoradarInstallations,IsIn,Installations;0.009189408662619532
+TOPIC_0;PocketsDressesEspciallyDresses,Are,StillPretty;0.009189408662619532
+TOPIC_0;DangerSavedLife,Justifies,MyLifetimeOfDistractions;0.009189408662619532
+TOPIC_0;CarManufacturer,HasAlwaysManufactured,Cars;0.009189408662619532
+TOPIC_0;EngineVehicle,WasOnlyProblemWith,DieselEngines;0.009189408662619532
+TOPIC_0;People,From,WeldingSupply;0.009189408662619532
+TOPIC_0;ShorterPeople,FitBackThereWithout,Complaints;0.009189408662619532
+TOPIC_0;People,FitBackWithout,Complaints;0.009189408662619532
+TOPIC_0;Bowmanjcsnorg,IsIn,ArticleAprcoloradoeduJerryBowman;0.009189408662619532
+TOPIC_0;Drewkinglearcscoloradoedu,IsIn,ArticleAprcoloradoedu;0.009189408662619532
+TOPIC_0;AutomatedMailingListPackage,Named,ListservWhich;0.009189408662619532
+TOPIC_0;OilPressure,Could,CouldYourOilPump;0.009189408662619532
+TOPIC_0;CarManufacturer,HasAlwaysManufactured,Cars;0.009189408662619532
+TOPIC_0;OccasionalBottle,IsHelpfulIn,Cars;0.009189408662619532
+TOPIC_0;OrganizationCashier,Has,OfficeCarnegieMellonPittsburgh;0.009189408662619532
+TOPIC_0;Bowmanjcsnorg,IsIn,ArticleAprcoloradoeduJerryBowman;0.009189408662619532
+TOPIC_0;Manufacturers,SpecifyIn,OperatorsManuals;0.009189408662619532
+TOPIC_0;RussellWong,AmDoingResearchProjectAt_time,Hello;0.009189408662619532
+TOPIC_0;Bowmanjcsnorg,IsIn,ArticleAprcoloradoeduJerryBowman;0.009189408662619532
+TOPIC_0;People,FitThereWithout,Complaints;0.009189408662619532
+

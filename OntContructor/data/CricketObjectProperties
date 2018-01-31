@@ -1,0 +1,6 @@
+playedBy,Game,Team,Func
+represents,Team,Country,Func
+playsFor,Player,Team,Func
+citizenOf,Player,Country,Func
+playedIn,Game,Venue,Func
+playedAgainst,Team,Team,Func

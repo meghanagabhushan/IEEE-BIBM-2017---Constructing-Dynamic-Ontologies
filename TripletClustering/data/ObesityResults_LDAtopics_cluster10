@@ -1,0 +1,27 @@
+
+Corpus summary:
+	 Training set size: 21 documents
+	 Vocabulary size: 21 terms
+	 Training set size: 21 tokens
+	 Preprocessing time: 3.26788391 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 10.076338585 sec
+	 Training data average log likelihood: -5.426502034221175
+
+1 topics:
+TOPIC_0;Studies,HaveInvestigated,VenousWallRemodelingAfterVenousThrombosis;0.1168592778531658
+TOPIC_0;FewStudies,HaveInvestigated,WallRemodelingAfterVenousThrombosis;0.1168592778531658
+TOPIC_0;Studies,HaveInvestigated,VenousWallRemodelingAfterVenousThrombosisThroughModels;0.0910531205083946
+TOPIC_0;FewStudies,HaveInvestigated,WallRemodelingAfterVenousThrombosisThroughRodentModels;0.0910531205083946
+TOPIC_0;Studies,HaveInvestigated,VenousWallRemodelingAfterThrombosisThroughRodentModels;0.0910531205083946
+TOPIC_0;FewStudies,HaveInvestigated,WallRemodelingAfterVenousThrombosisThroughModels;0.054791342529831616
+TOPIC_0;Studies,HaveInvestigated,VenousWallRemodelingAfterThrombosisThroughModels;0.054791342529831616
+TOPIC_0;Studies,HaveInvestigated,WallRemodelingAfterVenousThrombosisThroughModels;0.054791342529831616
+TOPIC_0;Studies,HaveInvestigated,VenousWallRemodelingAfterVenousThrombosisThroughRodentModels;0.054791342529831616
+TOPIC_0;Vasopressin,Stimulates,Release;0.054791342529831616
+TOPIC_0;FewStudies,HaveInvestigated,VenousWallRemodelingAfterVenousThrombosisThroughRodentModels;0.054791342529831616
+TOPIC_0;Studies,HaveInvestigated,VenousWallRemodeling;0.054791342529831616
+TOPIC_0;Studies,HaveInvestigated,WallRemodelingAfterVenousThrombosis;0.054791342529831616
+TOPIC_0;FewStudies,HaveInvestigated,VenousWallRemodelingAfterThrombosisThroughModels;0.054791342529831616
+

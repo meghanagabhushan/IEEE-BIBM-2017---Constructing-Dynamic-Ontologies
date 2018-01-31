@@ -1,0 +1,59 @@
+
+Corpus summary:
+	 Training set size: 74 documents
+	 Vocabulary size: 74 terms
+	 Training set size: 74 tokens
+	 Preprocessing time: 3.09632667 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 8.818117013 sec
+	 Training data average log likelihood: -12.359794544212088
+
+1 topics:
+TOPIC_0;InhibitoryEffect,WasObservedOn,MutantHIAPP;0.03629330343338501
+TOPIC_0;PlateletHyperactivity,Has,MajorEffectOnProgressionOfEvents;0.03629330343338501
+TOPIC_0;InhibitoryEffect,WasObservedOn,HIAPP;0.03629330343338501
+TOPIC_0;SimilarEffect,WasAlsoObservedOn,MutantHIAPP;0.03629330343338501
+TOPIC_0;InhibitoryEffect,Was,AlsoObserved;0.03629330343338501
+TOPIC_0;Effect,MoreoverWasAlsoObservedOn,MutantHIAPP;0.03629330343338501
+TOPIC_0;ProtectiveEffects,Were,CompletelyAbrogated;0.03629330343338501
+TOPIC_0;InhibitoryEffect,Was,MoreoverObserved;0.026570206974552465
+TOPIC_0;Effects,Were,MoreoverAbrogated;0.026570206974552465
+TOPIC_0;SimilarEffect,MoreoverWasObservedOn,MutantHIAPP;0.026570206974552465
+TOPIC_0;InhibitoryEffect,Was,Observed;0.026570206974552465
+TOPIC_0;Effect,WasObservedOn,MutantHIAPP;0.026570206974552465
+TOPIC_0;MetabolicSyndrome,IsWith,AbdominalObesity;0.026570206974552465
+TOPIC_0;PlateletHyperactivity,Has,MajorEffectOnProgressionOfThromboticEvents;0.026570206974552465
+TOPIC_0;ItsEffect,Was,Weaker;0.026570206974552465
+TOPIC_0;InhibitoryEffect,Was,Weaker;0.026570206974552465
+TOPIC_0;Effect,MoreoverWasObservedOn,HIAPP;0.026570206974552465
+TOPIC_0;ProtectiveEffects,Were,MoreoverCompletelyAbrogated;0.026570206974552465
+TOPIC_0;SimilarEffect,MoreoverWasObservedOn,HIAPP;0.026570206974552465
+TOPIC_0;Effect,WasObservedOn,HIAPP;0.026570206974552465
+TOPIC_0;Effect,MoreoverWasAlsoObservedOn,HIAPP;0.026570206974552465
+TOPIC_0;SimilarInhibitoryEffect,MoreoverWasAlsoObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;InhibitoryEffect,WasWeakerIn,Group;0.014958559132902815
+TOPIC_0;Effect,WasWeakerIn,CompareGroup;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,WasObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;ProtectiveEffects,Were,MoreoverAbrogated;0.014958559132902815
+TOPIC_0;InhibitoryEffect,WasAlsoObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;ItsEffect,Was,AlsoWeaker;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,Was,Observed;0.014958559132902815
+TOPIC_0;SimilarEffect,Was,MoreoverObserved;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,MoreoverWasObservedOn,HIAPP;0.014958559132902815
+TOPIC_0;Effects,Were,Abrogated;0.014958559132902815
+TOPIC_0;Effect,Was,MoreoverAlsoObserved;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,MoreoverWasObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;Effect,Was,Weaker;0.014958559132902815
+TOPIC_0;PlateletHyperactivity,Has,MajorEffect;0.014958559132902815
+TOPIC_0;SimilarEffect,WasAlsoObservedOn,HIAPP;0.014958559132902815
+TOPIC_0;InhibitoryEffect,Was,MoreoverAlsoObserved;0.014958559132902815
+TOPIC_0;SimilarEffect,WasObservedOn,HIAPP;0.014958559132902815
+TOPIC_0;SimilarEffect,MoreoverWasAlsoObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,WasAlsoObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;PlateletHyperactivity,Has,EffectOnProgressionOfThromboticEvents;0.014958559132902815
+TOPIC_0;ItsEffect,Was,SimilarlyAlsoWeaker;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,Was,AlsoObserved;0.014958559132902815
+TOPIC_0;InhibitoryEffect,MoreoverWasObservedOn,MutantHIAPP;0.014958559132902815
+TOPIC_0;SimilarInhibitoryEffect,Was,MoreoverObserved;0.014958559132902815
+

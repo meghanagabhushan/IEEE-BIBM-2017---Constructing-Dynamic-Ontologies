@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/medical#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/meghanagabhushan/ontologies/2017/6/medical#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="Deposits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Features"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Inflammation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Inflammation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Mice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Obesity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Studies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Thrombin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Treatment"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Causes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ExtravascularDeposits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IncreasedPrevalenceOfSinonasalDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ExtravascularFibrinDeposits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ThrombinActivity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ElevatedThrombinActivity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ExtravascularFibrinDepositsAsFeatures"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DepositsWithinAdiposeTissue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="FibγMice"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ExtravascularDepositsAsDistinctFeatures"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="IsAssociatedWith"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Avoid"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Targeting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SinonasalDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="NasalCorticosteroid"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="WereProtectedFrom"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pathologies"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="IsA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Asthma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DiagnosticCriteria"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Should"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="LinkObesity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="LungNeutrophilia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="NasalCorticosteroidTreatment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EstablishedObesity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="CanContributeTo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="DirectThrombinInhibitor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MechanisticLinks"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Are"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="FibrinDepositsAsFeatures"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="IsWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="FibrinDeposits"/>
+    </Declaration>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="DirectThrombinInhibitor"/>
+        <NamedIndividual IRI="FibγMice"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsWith"/>
+        <NamedIndividual IRI="DirectThrombinInhibitor"/>
+        <NamedIndividual IRI="EstablishedObesity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="DepositsWithinAdiposeTissue"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="ExtravascularDeposits"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="ExtravascularDepositsAsDistinctFeatures"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="ExtravascularFibrinDeposits"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="ExtravascularFibrinDepositsAsFeatures"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="ExtravascularFibrinDepositsAsFeatures"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="FibrinDeposits"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <NamedIndividual IRI="FibrinDepositsAsFeatures"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Causes"/>
+        <NamedIndividual IRI="LinkObesity"/>
+        <NamedIndividual IRI="LungNeutrophilia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsWith"/>
+        <NamedIndividual IRI="LinkObesity"/>
+        <NamedIndividual IRI="IncreasedPrevalenceOfSinonasalDisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="IsIn"/>
+        <NamedIndividual IRI="NasalCorticosteroidTreatment"/>
+        <NamedIndividual IRI="Asthma"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Targeting"/>
+        <NamedIndividual IRI="Pathologies"/>
+        <NamedIndividual IRI="ThrombinActivity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Underlies"/>
+        <NamedIndividual IRI="ThrombinActivity"/>
+        <NamedIndividual IRI="LinkObesity"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="Asthma"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Disease</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="Avoid"/>
+        <NamedIndividual IRI="DiagnosticCriteria"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AttributionOfCausality</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="Should"/>
+        <NamedIndividual IRI="DiagnosticCriteria"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ShouldDescriptive</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="Underlies"/>
+        <NamedIndividual IRI="ElevatedThrombinActivity"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ThromboembolicEvents</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="WereProtectedFrom"/>
+        <NamedIndividual IRI="FibγMice"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">HFDinducedWeightGain</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="WereProtectedFrom"/>
+        <NamedIndividual IRI="FibγMice"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">WeightGain</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="Identified"/>
+        <NamedIndividual IRI="ImmunohistochemicalStudies"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ExtravascularDepositsAsDistinctFeaturesOfMice</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsAssociatedWith"/>
+        <NamedIndividual IRI="LinkObesity"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Severity</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="LungNeutrophilia"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Disease</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="LungNeutrophilia"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Disease</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="Are"/>
+        <NamedIndividual IRI="MechanisticLinks"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Understood</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="NasalCorticosteroid"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Treatment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="Pathologies"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Study</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="CanContributeTo"/>
+        <NamedIndividual IRI="SinonasalDisease"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">PoorAsthmaControl</Literal>
+    </DataPropertyAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Causes"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Identified"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Identified"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="IsIn"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="IsIn"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="IsWith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="IsWith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Targeting"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Underlies"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Causes"/>
+        <Class IRI="Obesity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Identified"/>
+        <Class IRI="Studies"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Identified"/>
+        <Class IRI="Studies"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="IsIn"/>
+        <Class IRI="Thrombin"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="IsIn"/>
+        <Class IRI="Treatment"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="IsWith"/>
+        <Class IRI="Obesity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="IsWith"/>
+        <Class IRI="Thrombin"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Targeting"/>
+        <Class IRI="Studies"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Underlies"/>
+        <Class IRI="Thrombin"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Causes"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Identified"/>
+        <Class IRI="Deposits"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Identified"/>
+        <Class IRI="Features"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="IsIn"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="IsIn"/>
+        <Class IRI="Mice"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="IsWith"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="IsWith"/>
+        <Class IRI="Obesity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Targeting"/>
+        <Class IRI="Thrombin"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Underlies"/>
+        <Class IRI="Obesity"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="Are"/>
+        <Class IRI="Studies"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="Avoid"/>
+        <Class IRI="Disease"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="CanContributeTo"/>
+        <Class IRI="Disease"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="Identified"/>
+        <Class IRI="Studies"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="IsA"/>
+        <Class IRI="Disease"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="IsA"/>
+        <Class IRI="Studies"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="IsA"/>
+        <Class IRI="Treatment"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="IsAssociatedWith"/>
+        <Class IRI="Obesity"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="Should"/>
+        <Class IRI="Disease"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="Underlies"/>
+        <Class IRI="Thrombin"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="WereProtectedFrom"/>
+        <Class IRI="Mice"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="Are"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="Avoid"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="CanContributeTo"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="Identified"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsA"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsA"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsA"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsAssociatedWith"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="Should"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="Underlies"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="WereProtectedFrom"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0) https://github.com/owlcs/owlapi/ -->
+
+

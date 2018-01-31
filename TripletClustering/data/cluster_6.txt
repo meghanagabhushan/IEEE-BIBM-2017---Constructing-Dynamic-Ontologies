@@ -1,0 +1,5 @@
+VasopressinLevels,Up-regulating,SGK1Expression
+SGK1Expression,Favouring,Development
+SGK1Expression,Favouring,DevelopmentOfSGK1RelatedPathologies
+SGK1Expression,Favouring,DevelopmentOfSGK1Pathologies
+VasopressinLevels,ThusUp-regulating,SGK1Expression

@@ -1,0 +1,9 @@
+Causes,Obesity,Disease,Func
+Identified,Studies,Deposits,Func
+Targeting,Studies,Thrombin,Func
+Underlies,Thrombin,Obesity,Func
+Identified,Studies,Features,Func
+IsWith,Thrombin,Obesity,Func
+IsWith,Obesity,Disease,Func
+IsIn,Treatment,Disease,Func
+IsIn,Thrombin,Mice,Func

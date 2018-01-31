@@ -1,0 +1,21 @@
+
+Corpus summary:
+	 Training set size: 13 documents
+	 Vocabulary size: 13 terms
+	 Training set size: 13 tokens
+	 Preprocessing time: 3.618262757 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 11.372564297 sec
+	 Training data average log likelihood: -3.3064770014287155
+
+1 topics:
+TOPIC_0;EnhancedSGK1Activity,Fosters,Development;0.18082084577827873
+TOPIC_0;SGK1,Is,Activated;0.1482294640906491
+TOPIC_0;SGK1,FurtherParticipatesIn,Regulation;0.1482294640906491
+TOPIC_0;SGK1,ParticipatesIn,RegulationOfTranscriptionFactors;0.1482294640906491
+TOPIC_0;SGK1,IsStimulatorOf,Na;0.09362269048744347
+TOPIC_0;SGK1,Is,Stimulator;0.09362269048744347
+TOPIC_0;SGK1,Is,PowerfulStimulator;0.09362269048744347
+TOPIC_0;SGK1,IsActivatedBy,Insulin;0.09362269048744347
+
